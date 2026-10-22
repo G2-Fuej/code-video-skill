@@ -1,0 +1,529 @@
+{
+  "title": "PCL Workstation Edition",
+  "duration": 61.0,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "seed": 20261021,
+  "grain": 0.01,
+  "vignette": 1.0,
+  "output": "PCL-Workstation-Edition-61s.mp4",
+  "palette": {
+    "primary": "#2563EB",
+    "accent": "#14B8A6",
+    "danger": "#E11D48",
+    "bg": "#08090C",
+    "ink": "#E8EAF0",
+    "sub": "#8A93A6",
+    "paper": "#F2EFE6",
+    "warm": "#F5A524"
+  },
+  "music": {
+    "enabled": true,
+    "bpm": 96
+  },
+  "data": {
+    "heights": [
+      28,
+      84,
+      252,
+      30,
+      71,
+      47,
+      295,
+      31,
+      83,
+      542,
+      289,
+      216,
+      23,
+      46,
+      16,
+      176,
+      353,
+      14,
+      230,
+      173,
+      67,
+      324,
+      30,
+      217,
+      33,
+      163,
+      16,
+      148,
+      15,
+      187,
+      9,
+      173,
+      156,
+      27,
+      658,
+      37,
+      276,
+      62,
+      39,
+      97,
+      36,
+      104,
+      38,
+      108,
+      108,
+      513,
+      9,
+      252,
+      9,
+      295,
+      315,
+      51,
+      46,
+      15,
+      45,
+      29,
+      210,
+      19,
+      169,
+      322,
+      87,
+      70,
+      157,
+      1722,
+      12,
+      1075,
+      1216,
+      791,
+      1933,
+      424,
+      168,
+      54,
+      1122,
+      1389,
+      584,
+      2221,
+      2153,
+      861,
+      394,
+      6,
+      446,
+      1083,
+      347,
+      205,
+      277,
+      345,
+      711,
+      530,
+      427,
+      151,
+      56,
+      121,
+      233,
+      71,
+      2176,
+      360,
+      1195,
+      59,
+      150,
+      727,
+      83,
+      214,
+      34,
+      558,
+      26,
+      2,
+      36,
+      2,
+      28,
+      2,
+      45,
+      2,
+      34,
+      2,
+      95,
+      266,
+      56,
+      537,
+      314,
+      784,
+      43,
+      145,
+      79,
+      839,
+      30,
+      19,
+      88,
+      311,
+      276,
+      570,
+      40,
+      160,
+      21,
+      313,
+      157,
+      837,
+      41,
+      291,
+      24,
+      86,
+      27,
+      85,
+      13,
+      77,
+      36,
+      108,
+      55,
+      180,
+      24,
+      80,
+      28,
+      57,
+      207,
+      1116,
+      911,
+      34,
+      23,
+      179,
+      24,
+      37,
+      23,
+      159,
+      12,
+      28,
+      17,
+      416,
+      25,
+      252,
+      300,
+      515,
+      40,
+      175,
+      55,
+      34,
+      208,
+      133,
+      346,
+      626,
+      480,
+      81,
+      60,
+      235,
+      40,
+      7,
+      345
+    ],
+    "files": 185,
+    "lines": 49938,
+    "source": "tools/gen_repo_data.py over the real snapshot"
+  },
+  "timeline": [
+    {
+      "style": "phyllotaxis",
+      "start": 0.0,
+      "end": 2.995,
+      "music": "drive",
+      "beat": {
+        "headline": "PCL Workstation Edition",
+        "kicker": "19 STYLES / 61 SECONDS / 0 VIDEO MODELS"
+      },
+      "caption": "PCL WORKSTATION EDITION"
+    },
+    {
+      "style": "truchet",
+      "start": 2.995,
+      "end": 5.99,
+      "music": "drive",
+      "beat": {
+        "caption": "UPSTREAM CUT THE PIPELINE",
+        "kicker": ""
+      },
+      "caption": "UPSTREAM CUT THE PIPELINE"
+    },
+    {
+      "style": "flow",
+      "start": 5.99,
+      "end": 8.985,
+      "music": "hollow",
+      "beat": {
+        "caption": "NO VANILLA DOWNLOAD  ·  NO MODPACK IMPORT",
+        "kicker": ""
+      },
+      "caption": "NO VANILLA DOWNLOAD  ·  NO MODPACK IMPORT"
+    },
+    {
+      "style": "voronoi",
+      "start": 8.985,
+      "end": 11.98,
+      "music": "pad",
+      "beat": {
+        "caption": "THIS FORK PUTS IT BACK",
+        "kicker": ""
+      },
+      "caption": "THIS FORK PUTS IT BACK"
+    },
+    {
+      "style": "ascii",
+      "start": 11.98,
+      "end": 14.975,
+      "music": "pad",
+      "beat": {
+        "terminal": "$ restore --vanilla-download\n$ restore --modpack-import\nvanilla: forge / fabric / neoforge / optifine\nmodpack: curseforge / modrinth\ntrust: 0 virus / 0 ad / 0 tracker\nsource: github.com/G2-Fuej/PCL-Workstation-Edition",
+        "headline": "RESTORED IN CODE"
+      },
+      "caption": "RESTORED IN CODE"
+    },
+    {
+      "style": "halftone",
+      "start": 14.975,
+      "end": 17.97,
+      "music": "drive",
+      "beat": {
+        "plates": [
+          "原版游戏",
+          "整合包",
+          "Forge / Fabric / NeoForge"
+        ]
+      },
+      "caption": "原版游戏 · 整合包 · 加载器"
+    },
+    {
+      "style": "swiss",
+      "start": 17.97,
+      "end": 20.964,
+      "music": "drive",
+      "beat": {
+        "kicker": "INSTALL COMPONENTS",
+        "rows": [
+          "Forge",
+          "Fabric",
+          "NeoForge",
+          "OptiFine",
+          "整合包"
+        ]
+      },
+      "caption": "INSTALL COMPONENTS"
+    },
+    {
+      "style": "crt",
+      "start": 20.964,
+      "end": 23.959,
+      "music": "drive",
+      "beat": {
+        "claims": [
+          "0 VIRUS",
+          "0 AD",
+          "0 TRACKER"
+        ],
+        "ticker": "SOURCE AVAILABLE FOR AUDIT"
+      },
+      "caption": "SOURCE AVAILABLE FOR AUDIT"
+    },
+    {
+      "style": "kaleidoscope",
+      "start": 23.959,
+      "end": 26.954,
+      "music": "drive",
+      "beat": {
+        "caption": "CURSEFORGE / MODRINTH 整合包"
+      },
+      "caption": "CURSEFORGE / MODRINTH 整合包"
+    },
+    {
+      "style": "xy",
+      "start": 26.954,
+      "end": 29.949,
+      "music": "drive",
+      "beat": {
+        "steps": [
+          "VERSION",
+          "LOADER",
+          "DOWNLOAD"
+        ]
+      },
+      "caption": "VERSION → LOADER → DOWNLOAD"
+    },
+    {
+      "style": "blueprint",
+      "start": 29.949,
+      "end": 33.244,
+      "music": "pad",
+      "beat": {
+        "title": "PCL WORKSTATION EDITION",
+        "sheet": "REV A / 1:1  ·  .NET FW 4.8",
+        "modules": [
+          {
+            "name": "WPF SHELL",
+            "sub": "63 xaml  ·  5878 lines"
+          },
+          {
+            "name": "VB MODULES",
+            "sub": "113 files  ·  43139 lines"
+          },
+          {
+            "name": "PCLCS",
+            "sub": "9 files  ·  921 lines"
+          },
+          {
+            "name": "CI",
+            "sub": "GitHub Actions"
+          }
+        ]
+      },
+      "caption": "ENGINEERING BLUEPRINT"
+    },
+    {
+      "style": "terrain",
+      "start": 33.244,
+      "end": 36.239,
+      "music": "pad",
+      "beat": {
+        "caption": "49938 LINES OF REAL SOURCE"
+      },
+      "caption": "49938 LINES OF REAL SOURCE"
+    },
+    {
+      "style": "editorial",
+      "start": 36.239,
+      "end": 39.234,
+      "music": "pad",
+      "beat": {
+        "kicker": "COLOPHON",
+        "body": "PLAIN CRAFT LAUNCHER\n这是上游 Plain Craft Launcher 2.14.0.0 的第三方界面二次修改版。保留启动、下载、实例管理与设置的原有能力，重写主窗口外壳与启动页布局。继续遵循上游 LICENCE 中的分发有限许可与合理使用指南。",
+        "quote": "第三方基于 PCL 独立进行二次创作",
+        "folio": "- III -"
+      },
+      "caption": "第三方基于 PCL 独立进行二次创作"
+    },
+    {
+      "style": "galaxy",
+      "start": 39.234,
+      "end": 42.228,
+      "music": "pad",
+      "beat": {
+        "caption": "OPEN SOURCE LIGHTS IT UP"
+      },
+      "caption": "OPEN SOURCE LIGHTS IT UP"
+    },
+    {
+      "style": "destijl",
+      "start": 42.228,
+      "end": 45.223,
+      "music": "drive",
+      "beat": {
+        "caption": "重切布局 · 双栏工作台"
+      },
+      "caption": "重切布局 · 双栏工作台"
+    },
+    {
+      "style": "pixelsort",
+      "start": 45.223,
+      "end": 48.218,
+      "music": "climax",
+      "beat": {
+        "caption": "DOWNLOAD 0% → 100%"
+      },
+      "caption": "DOWNLOAD 0% → 100%"
+    },
+    {
+      "style": "plotter",
+      "start": 48.218,
+      "end": 51.213,
+      "music": "climax",
+      "beat": {
+        "caption": "一键启动",
+        "rose": {
+          "n": 6,
+          "d": 5
+        }
+      },
+      "caption": "一键启动"
+    },
+    {
+      "style": "metaballs",
+      "start": 51.213,
+      "end": 54.208,
+      "music": "climax",
+      "beat": {
+        "caption": "原版 + 加载器 + API 融为一个实例"
+      },
+      "caption": "原版 + 加载器 + API 融为一个实例"
+    },
+    {
+      "style": "matrix",
+      "start": 54.208,
+      "end": 59.0,
+      "music": "climax",
+      "beat": {
+        "payoff": "19",
+        "caption": "19 WORLDS · ONE RENDER"
+      },
+      "caption": "19 WORLDS · ONE RENDER"
+    },
+    {
+      "style": "endcard",
+      "start": 59.0,
+      "end": 61.0,
+      "music": "end",
+      "beat": {
+        "lines": [
+          [
+            "written, rendered and scored in code",
+            "display_b",
+            46
+          ],
+          [
+            "无视频模型 · 无采样素材 · 无病毒 无广告",
+            "cjk_b",
+            34
+          ],
+          [
+            "PCL Workstation Edition —— 干净 · 开源 · 免费",
+            "cjk_b",
+            38
+          ],
+          [
+            "github.com/G2-Fuej/PCL-Workstation-Edition",
+            "mono_b",
+            36
+          ],
+          [
+            "基于 Plain Craft Launcher 2.14.0.0 二次创作",
+            "cjk",
+            28
+          ],
+          [
+            "原作者：龙腾猫跃（LTCat） · meloong.com/pcl",
+            "cjk",
+            28
+          ]
+        ]
+      },
+      "caption": ""
+    }
+  ],
+  "beats": [
+    "phyllotaxis",
+    "truchet",
+    "flow",
+    "voronoi",
+    "ascii",
+    "halftone",
+    "swiss",
+    "crt",
+    "kaleidoscope",
+    "xy",
+    "blueprint",
+    "terrain",
+    "editorial",
+    "galaxy",
+    "destijl",
+    "pixelsort",
+    "plotter",
+    "metaballs",
+    "matrix"
+  ],
+  "endcard": {
+    "signature": "written, rendered and scored in code",
+    "project": "PCL Workstation Edition",
+    "repo": "github.com/G2-Fuej/PCL-Workstation-Edition",
+    "credit": "基于 Plain Craft Launcher 2.14.0.0 二次创作 · 原作者：龙腾猫跃（LTCat）"
+  }
+}
